@@ -10,7 +10,6 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
 *  **Cohort from 2024 Fall** 
-    * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/inside-the-business-analytics-practicum-students-deliver-insights-and-innovative-ideas-at-showcase-news-article-bac.html)
       
 *  **Cohort from 2023 Fall** 
-    * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/inside-the-business-analytics-practicum-students-deliver-insights-and-innovative-ideas-at-showcase-news-article-bac.html)
+    * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/news-article-bac1.html)
