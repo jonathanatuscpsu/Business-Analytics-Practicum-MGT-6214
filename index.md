@@ -10,7 +10,7 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 
 * Teaching assistant: Ms.Haofei Qin 
 * Email: haofei.qin@scheller.gatech.edu
-* Office Hours:TBD
+* Office Hours: TBD
 
 
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
