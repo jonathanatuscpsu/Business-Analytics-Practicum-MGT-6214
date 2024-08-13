@@ -5,7 +5,7 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
-* Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
+* Office Hours: Tuesdays 4:00 pm-5:00 pm and by appointment
 
 
 * Teaching assistant: Ms.Haofei Qin 
