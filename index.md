@@ -7,6 +7,10 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 * Email: jonathan.fan@scheller.gatech.edu
 * Office Hours: Tuesdays 4:00 pm-5:00 pm and by appointment
 
++ Class Location: Scheller College of Business 221
++ Class Day and Time: Tuesday
+  6:30 – 9:30 pm
+
 
 * Teaching assistant: Mr.Karthik Katragadda (MBA student)
 * Email: kkatragadda3@gatech.edu
