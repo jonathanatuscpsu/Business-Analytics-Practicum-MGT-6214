@@ -3,7 +3,7 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 
 ## Class Information
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
-* **Class Location: Scheller College of Business 221**
+* **Class Location: Scheller College of Business, Room 221**
 * **Class Day and Time: Tuesday**
    **- 6:30 pm – 9:30 pm EST**
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
