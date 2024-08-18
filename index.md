@@ -8,13 +8,14 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 * Office Hours: Tuesdays 4:00 pm-5:00 pm and by appointment
 
 
-* Teaching assistant: Ms.Haofei Qin 
+* Teaching assistant: Mr.Karthik Katragadda (MBA student)
+* Email: kkatragadda3@gatech.edu
+* Office Hours: TBD
+
+* Teaching assistant: Ms.Haofei Qin (Ph.D. student)
 * Email: haofei.qin@scheller.gatech.edu
 * Office Hours: TBD
 
-* Teaching assistant: Mr.Karthik Katragadda
-* Email: kkatragadda3@gatech.edu
-* Office Hours: TBD
 
 
 
