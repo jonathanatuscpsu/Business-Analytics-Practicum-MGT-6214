@@ -1,6 +1,8 @@
 The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD students from various schools with participating companies and organizations for a semester-long, consulting-style project. After an initial meeting with the company representative, student teams tackle a specific business analytics challenge or opportunity. Throughout the semester, each team defines the client’s business issue as an analytics problem, analyzes the provided data, and generates actionable business insights. They also develop models or approaches and deliver recommendations based on their findings and analysis.
 
 
+<!--- This course pairs groups of students with a company for a semester-long project. Student teams work with their participating company by framing a business issue as an analytics problem, analyzing data provided by the company, and generating applicable business insights and/or developing capabilities.--->
+
 ## Class Information
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
 * **Class Location: Scheller College of Business, Room 221**
