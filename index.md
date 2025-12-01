@@ -32,3 +32,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 *  **Cohort from 2023 Fall** 
     * **Media Coverage**  [Inside the Business Analytics Practicum: Students Deliver Insights and Innovative Ideas at Showcase](https://www.scheller.gatech.edu/news/business-analytics-center/news-article-bac1.html)
+
+---
+
+*Go Jackets! 🐝*
