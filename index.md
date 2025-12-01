@@ -4,7 +4,7 @@ The Business Analytics Practicum at Georgia Tech pairs teams of master's and PhD
 <!--- This course pairs groups of students with a company for a semester-long project. Student teams work with their participating company by framing a business issue as an analytics problem, analyzing data provided by the company, and generating applicable business insights and/or developing capabilities.--->
 
 ## Class Information
-* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+* Instructor: **[Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)**, Ph.D.
 * **Class Location: Scheller College of Business, Room 221**
 * **Class Day and Time: Tuesday**
    **- 6:30 pm – 9:30 pm EST**
